@@ -4,4 +4,8 @@
     <string name="lt">Large Text     </string>
     <string name="b1">Button 1</string>
     <string name="b2">Button 2</string>
+    <string name="name">Name: </string>
+    <string name="password">Password: </string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
 </resources>
